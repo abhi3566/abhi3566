@@ -1,6 +1,6 @@
-### Hi there, I'm Suresh 👋
+### Hi there, I'm Abhishek 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SureshM7198?style=social)](https://twitter.com/abhi3566)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abhi3566?style=social)](https://twitter.com/abhi3566)
 
 ## I'm a Developer, Graphic designer, Illustrator, and UI/UX Designer!!
 
