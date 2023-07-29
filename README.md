@@ -1,4 +1,3 @@
-![Header](./[https://drive.google.com/file/d/10OLcozT4qcTwVC_volOslpc07vxkZUr2/view?usp=drive_link])
 ### Hi there, I'm Abhishek 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhi3566?style=social)](https://twitter.com/abhi3566)
