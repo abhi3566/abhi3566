@@ -5,7 +5,7 @@
 ## I'm a Full Stack Developer, Illustrator, and UI/UX Designer!!
 
 - 🔭 I’m currently working on Full Stack Software Development.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2024 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to ride -->
