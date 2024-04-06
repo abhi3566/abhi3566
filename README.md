@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/abhi3566?style=social)](https://twitter.com/abhi3566)
 
-## I'm a Developer, Graphic designer, Illustrator, and UI/UX Designer!!
+## I'm a Full Stack Developer, Illustrator, and UI/UX Designer!!
 
 - 🔭 I’m currently working on Full Stack Software Development.
 - 🌱 I’m currently learning everything.
